@@ -20,7 +20,7 @@ First, clone or download this repository.
 git clone git@github.com:Miguelo0098/Reddit-Tweeter.git
 ```
 
-Then, install the dependencies using pip.
+Reddit Tweeter uses the [python-twitter](https://github.com/bear/python-twitter), [PRAW](https://praw.readthedocs.io/en/latest/) and [Pillow](https://github.com/python-pillow/Pillow) libraries. You can install them using pip.
 
 ```
 pip3 install -r requirements.txt
